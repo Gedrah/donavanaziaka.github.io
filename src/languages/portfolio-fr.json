@@ -1,0 +1,53 @@
+{
+  "header": {
+    "home": "",
+    "projects": "Projets",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "banner": {
+    "name": "Donavan Aziaka",
+    "description": "Spécialiste en développements d'applications web front end et mobiles."
+  },
+  "about": {
+    "title": "À Propos de moi",
+    "description": "Donavan Aziaka est développeur front end, avec 2 ans d'expérience en développement web. Il travaille actuellement à Desjardins. Il possède un bachelor en Technologie de l'information."
+  },
+  "projects": {
+    "title": "Projets",
+    "descriptions": "Voici la liste des projets sur lesquels j'ai travaillé récemment.",
+    "projectButtons":{
+      "github": "Voir sur github",
+      "url": "Voir le projet"
+    },
+    "projects": [
+      {
+        "title": "Ugram",
+        "description": "Project consistant à reproduire Instagram. Ce projet a été fait dans le cadre du cours de développement web à l'université Laval.",
+        "image": "ugram.png",
+        "technologies": ["React", "Typescript", "Mobx"],
+        "url": "https://ugram-front.herokuapp.com/",
+        "github": "https://github.com/Gedrah/Ugram"
+      },
+      {
+        "title": "My Reads",
+        "description": "Une application web permettant de chercher les livres qui nous intéressent et de les ajouter à notre étagère.",
+        "image": "myreads.png",
+        "technologies": ["React"],
+        "url": "https://myreads-front.herokuapp.com/",
+        "github": "https://github.com/Gedrah/MyReads"
+      },
+      {
+        "title": "Would You Rather",
+        "description": "Une application web permettant de se connecter a un utilisateur afin de choisir entre 2 propositions pour répondre à une question. Projet faisant partie du cursus Udacity.",
+        "image": "wouldyourather.png",
+        "technologies": ["React", "Redux"],
+        "url": "https://my-would-you-rather.herokuapp.com/",
+        "github": "https://github.com/Gedrah/WouldYouRather"
+      }
+    ]
+  },
+  "contact": {
+    "mention": "@ 2020 - Donavan Aziaka"
+  }
+}

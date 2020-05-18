@@ -1,0 +1,62 @@
+{
+  "header": {
+    "home": "",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "banner": {
+    "name": "Donavan Aziaka",
+    "description": "Front-End developer. I also build mobile applications."
+  },
+  "about": {
+    "title": "About me",
+    "description": "Donavan Aziaka is a Frontend Developer, with 2 years experience in web development, working at Desjardins. He graduaded with a Bachelor Degree in Information Technology."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Here is a list of projects I've worked on recently.",
+    "technos": "Technologies :",
+    "projectButtons":{
+      "github": "View github",
+      "url": "View project"
+    },
+    "projects": [
+      {
+        "title": "Ugram",
+        "description": "Instagram clone made as part of web development Laval University course",
+        "image": "ugram.png",
+        "technologies": ["React", "Typescript", "Mobx", "Google Analytics"],
+        "url": "https://ugram-front.herokuapp.com/",
+        "github": "https://github.com/Gedrah/Ugram"
+      },
+      {
+        "title": "My Reads",
+        "description": "A web app that let you search for books and add them to your bookshelf",
+        "image": "myreads.png",
+        "technologies": ["React"],
+        "url": "https://myreads-front.herokuapp.com/",
+        "github": "https://github.com/Gedrah/MyReads"
+      },
+      {
+        "title": "Would You Rather",
+        "description": "A web application that enable you to choose between two choices. Made as part of Udacity course",
+        "image": "wouldyourather.png",
+        "technologies": ["React", "Redux"],
+        "url": "https://my-would-you-rather.herokuapp.com/",
+        "github": "https://github.com/Gedrah/WouldYouRather"
+      },
+      {
+        "title": "Socdist",
+        "description": "A project to explain the concept of social/physical distancing during the Coronavirus pandemic. Adapted from herdimm, a project to explain the concept of herd immunity",
+        "image": "socdist.png",
+        "technologies": ["Vue", "Vuetify", "Google Analytics"],
+        "url": "https://my-would-you-rather.herokuapp.com/",
+        "github": "https://github.com/Gedrah/WouldYouRather"
+      }
+    ]
+  },
+  "contact": {
+    "mention": "@ 2020 - Donavan Aziaka"
+  }
+}
