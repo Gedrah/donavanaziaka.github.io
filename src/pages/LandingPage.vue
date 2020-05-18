@@ -50,7 +50,6 @@
 <style>
     @import '../css/main.css';
     @import '../sass/_banner.scss';
-    @import '../sass/_footer.scss';
     @import '../sass/_header.scss';
 </style>
 
