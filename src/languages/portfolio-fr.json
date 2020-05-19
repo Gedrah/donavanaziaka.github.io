@@ -50,8 +50,8 @@
         "description": "Un projet expliquant le concept de distance sociale durant la période du Coronavirus.",
         "image": "socdist.png",
         "technologies": ["Vue", "Vuetify", "Google Analytics"],
-        "url": "https://my-would-you-rather.herokuapp.com/",
-        "github": "https://github.com/Gedrah/WouldYouRather"
+        "url": "http://wlab.fmed.ulaval.ca/projects/socdist/#/",
+        "github": ""
       }
     ]
   },

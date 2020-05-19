@@ -10,10 +10,10 @@
             </ul>
         </div>
         <ul class="actions">
-            <li>
+            <li v-if="project.url">
                 <a :href="project.url" class="button small primary icon solid fa-link">{{projectButtons.url}}</a>
             </li>
-            <li>
+            <li v-if="project.github">
                 <a :href="project.github" class="button small primary icon brands fa-github">{{projectButtons.github}}</a>
             </li>
         </ul>
