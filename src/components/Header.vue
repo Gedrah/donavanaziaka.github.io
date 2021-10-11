@@ -4,7 +4,7 @@
         <nav>
             <a v-on:click="moveToElement('about')">{{this.lang.about}}</a>
             <a v-on:click="moveToElement('projects')">{{this.lang.projects}}</a>
-<!--            <a v-on:click="moveToElement('contact')">{{this.lang.contact}}</a>-->
+            <a href="https://github.com/Gedrah" target="_blank">{{this.lang.contact}}</a>
         </nav>
     </header>
 </template>
